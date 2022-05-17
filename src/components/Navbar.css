@@ -1,0 +1,44 @@
+.main{
+
+ color: blue;
+ width:98%;
+ height: 50px;
+ background-color: balck;
+ border: 1px solid red;
+ margin: auto;
+ margin-top: 5px;
+ display: flex;
+justify-content: space-between;
+ background-color: black;
+ 
+}
+.main>div{
+ border: 1px solid black;
+ justify-content: space-between;
+ padding-left: 30px;
+ color: aliceblue;
+ padding-right: 30px;
+ padding-top: 4px;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+  
+}
+li{
+    padding-left: 5px;
+    padding-right: 5px;
+    color: white;
+
+}
+#but{
+    background-color: rgb(9, 122, 167);
+    border-radius: 15px;
+    border: 0px;
+    width: 150px;
+    height: 40px;
+}
+#logo{
+    font-size: 20px;
+    padding-top: 8px;
+}
