@@ -22,6 +22,9 @@ export const Counter = () => {
     <div>
         <button onClick={inr}>incrment</button>
         <button onClick={der}>decrement</button>
+
+        <button onClick={der}>double</button>
+
     </div>
     
     </>
