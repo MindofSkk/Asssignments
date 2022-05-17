@@ -1,33 +1,13 @@
 import React, { useState } from 'react'
-
+import "./Counter.css"
 export const Counter = () => {
-    // let count=0;
-    const[count,setCount]=useState(0)
-    function inr()
-    {
-  setCount(count+1)
-    }
-    function der()
-    {
-        setCount(count-1)
-
-
-    }
+    const [count,setCount] = useState(0)
   return (
-    <>
-    
-    <div>Counter: {count}
-    
-    </div>
     <div>
-        <button onClick={inr}>incrment</button>
-        <button onClick={der}>decrement</button>
-
-        <button onClick={der}>double</button>
-
+        <h1 className={(count%2) ? "red" : "green"}> {count}</h1>
+        <button onClick={()=>{setCount(count+1)}}>Increment</button>
+        <button onClick={()=>{setCount(count-1)}}>Decrement</button>
+        <button onClick={()=>{setCount(count*2)}}>Double</button>
     </div>
-    
-    </>
-
   )
 }
