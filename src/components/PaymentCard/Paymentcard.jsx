@@ -8,7 +8,7 @@ export const Paymentcard = (props) => {
 
   return (
     <>
-      {props.payments.map((e, index) =>   (
+      {props.payments.map((e) =>   (
          
         <div className="box" style={{ background: e.backgroundcolor }}>
           <div className="date">
