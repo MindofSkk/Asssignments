@@ -1,0 +1,55 @@
+.box{
+    background-color:orange;
+    border: 1px solid black;
+    padding-top: 30px;
+    width: 650px;
+    height: 300px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.date{
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    padding: 0px 50px 0px 28px;
+    margin: auto;
+   
+}
+img{
+    width: 70px;
+    height: 70px;
+    display: grid;
+    /* borde/r: 1px solid blue; */
+}
+.but>button{
+    color: white;
+    background-color: black;
+    height: 30px;
+    width: 120px;
+    border: 0px;
+    text-align: center;
+    
+}
+.but{
+    padding-left: 27px;
+}
+#name{
+    /* border: 1px solid blue; */
+    width: 30%;
+    padding-left: 27px;
+}
+i{
+    margin-top: 20px;
+    /* border:1px solid black; */
+    height: 30px;
+    font-size:24px;
+}
+.ls{
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    height: 50px;
+    margin: auto
+}
