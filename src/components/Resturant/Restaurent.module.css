@@ -1,0 +1,54 @@
+.maincont{
+    display: grid;
+    width: 90%;
+    grid-template-columns:35%  35% 37%;
+    grid-template-rows: auto;
+    gap: 1%;
+    /* margin: 20px auto;   */
+}
+
+img{
+    width: 100px ;
+    height:70px;
+    margin-top: 10px;
+    border-radius: 7%;
+}
+
+.upper_crd{
+    display: flex;
+    gap: 10px;
+    /* border: 1px solid black; */
+    
+}
+.Resturant_crd{
+    border: 1px solid gray;
+    padding: 5px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    transition: all 0.3s ease-out;
+}
+.Resturant_crd:hover{
+    transform: translateY(-5px) scale(1.005) translateZ(0);
+    box-shadow: 0 24px 36px rgba(0,0,0,0.11),
+      0 24px 46px var(--box-shadow-color);
+}
+.details{
+    line-height: 15px;
+}
+
+.lower_crd{
+    text-align: center;
+
+}
+.lower_crd>button{
+    height: 30px;
+    width: 150px;
+    color: green;
+    border-color: green;
+
+}
+
+.navbar{
+    display: flex;
+    gap: 10%;
+    margin-left: 10%;
+}

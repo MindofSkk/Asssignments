@@ -1,0 +1,383 @@
+{
+    "datas": [
+      {
+        "id": 1,
+        "imgurl": "https://foodtech-files.s3-eu-west-2.amazonaws.com/3d09ecba313d29f7ae0650123ff7360ebf47b2741d831ece80382a87581cbb2d",
+        "restname": "URU Brewpark",
+        "desc":"Continental, Pizza, Asian, Desserts",
+        "cost":500,
+        "dis":50,
+        "time":30,
+        "paymnt":"Accepts card payments only",
+        "rating":4.3,
+        "vote":766,
+        "review":512,
+        "payment_methods": {
+          "card": true,
+          "cash": false,
+          "upi": false
+        }
+      },
+      {
+        "id": 2,
+        "imgurl": "https://tse4.mm.bing.net/th?id=OIP.YZxfuv3qMU59BsLvmtPVygHaE7&pid=Api&P=0&w=239&h=159",
+        "restname": "Panjab Sweet",
+        "desc":"South Indian ,Idli ,Dosa , Sambhar",
+        "cost":300,
+        "dis":80,
+        "time":45,
+        "paymnt":"Accepts cash payments only",
+        "rating":3.3,
+        "vote":466,
+        "review":512,
+        "payment_methods": {
+          "card": true,
+          "cash": false,
+          "upi": false
+        }
+      },
+      {
+        "id": 3,
+        "imgurl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/f5myljd7uiwfaayjmwru",
+        "restname": "BARBEQUE",
+        "desc":"Continental , Pizza , Asian , Desserts",
+        "cost":400,
+        "dis":50,
+        "time":30,
+        "paymnt":"Accepts card payments only",
+        "rating":2.3,
+        "vote":766,
+        "review":312,
+        "payment_methods": {
+          "card": true,
+          "cash": false,
+          "upi": false
+        }
+      },
+      {
+        "id": 4,
+        "imgurl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/77e25274133329.5c238353cfe8c.jpg",
+        "restname": "NIRWANA",
+        "desc":"INDIAN , Thali , Biryani , Desserts",
+        "cost":200,
+        "dis":50,
+        "time":45,
+        "paymnt":"Accepts online payments only",
+        "rating":1.3,
+        "vote":766,
+        "review":112,
+        "payment_methods": {
+          "card": true,
+          "cash": false,
+          "upi": false
+        }
+      },
+      {
+        "id": 5,
+        "imgurl": "https://i0.wp.com/www.thetechbulletin.com/wp-content/uploads/2015/04/Swiggy-Food-Menu1.jpg?resize=665%2C499",
+        "restname": "KFC",
+        "desc":"Continental , Pizza , Asian , Desserts",
+        "cost":100,
+        "dis":50,
+        "time":30,
+        "paymnt":"Accepts online payments only",
+        "rating":4.5,
+        "vote":766,
+        "review":612,
+        "payment_methods": {
+          "card": true,
+          "cash": false,
+          "upi": true
+        }
+      },
+      {
+        "id": 6,
+        "imgurl": "https://www.shoppirate.in/blog/wp-content/uploads/2016/01/swiggy.jpg",
+        "restname": "PALM STREET",
+        "desc":"Continental , Pizza , Asian , Desserts",
+        "cost":400,
+        "dis":50,
+        "time":30,
+        "paymnt":"Accepts cash payments only",
+        "rating":3.3,
+        "vote":766,
+        "review":512,
+        "payment_methods": {
+          "card": false,
+          "cash": true,
+          "upi": false
+        }
+      },
+      {
+        "id": 7,
+        "imgurl": "https://tse1.mm.bing.net/th?id=OIP.aXZ26d1pgyLEY1T6-7jrKgHaFj&pid=Api&P=0&w=257&h=192",
+        "restname": "Kaveri",
+        "desc":"Thai , Pizza , Asian , Desserts",
+        "cost":500,
+        "dis":50,
+        "time":45,
+        "paymnt":"Accepts card payments only",
+        "rating":4.5,
+        "vote":766,
+        "review":512,
+        "payment_methods": {
+          "card": true,
+          "cash": false,
+          "upi": false
+        }
+      },
+      {
+        "id": 8,
+        "imgurl": "https://d4t7t8y8xqo0t.cloudfront.net/resized/750X436/restaurant/661928/restaurant820191213041523.jpg",
+        "restname": "Barbeque",
+        "desc":"Continental , Thai , Indian , Pizza , Asian,Desserts",
+        "cost":500,
+        "dis":50,
+        "time":45,
+        "paymnt":"Accepts cash payments only",
+        "rating":4.7,
+        "vote":766,
+        "review":612,
+        "payment_methods": {
+          "card": false,
+          "cash": true,
+          "upi": false
+        }
+      },
+      {
+        "id": 9,
+        "imgurl": "https://tripinfi.com/wp-content/uploads/2020/05/veg-biryani-tripinfi.jpg",
+        "restname": "Kaveri",
+        "desc":"Indian , Desserts",
+        "cost":500,
+        "dis":50,
+        "time":30,
+        "paymnt":"Accepts online payments only",
+        "rating":4.9,
+        "vote":766,
+        "review":700,
+        "payment_methods": {
+          "card": true,
+          "cash": false,
+          "upi": true
+        }
+      },
+      {
+        "id": 10,
+        "imgurl": "https://threebestrated.in/images/KFC-Ranchi-JH-1.jpeg",
+        "restname": "KFC",
+        "desc":"Continental , Pizza , Asian  , Desserts",
+        "cost":500,
+        "dis":50,
+        "time":30,
+        "paymnt":"Accepts cash payments only",
+        "rating":2.1,
+        "vote":766,
+        "review":201,
+        "payment_methods": {
+          "card": false,
+          "cash": true,
+          "upi": false
+        }
+      },
+      {
+        "id": 11,
+        "imgurl": "https://img.theculturetrip.com/768x512/smart/wp-content/uploads/2018/03/2028441.jpg",
+        "restname": "Kaveri",
+        "desc":"Indian , Asian , Desserts",
+        "cost":500,
+        "dis":50,
+        "time":30,
+        "paymnt":"Accepts card payments only",
+        "rating":1.1,
+        "vote":766,
+        "review":125,
+        "payment_methods": {
+          "card": true,
+          "cash": false,
+          "upi": false
+        }
+      },
+      {
+        "id": 12,
+        "imgurl": "https://threebestrated.in/images/YellowSapphireCapitolHill-Ranchi-JH-2.jpeg",
+        "restname": "Prawn",
+        "desc":"Continental , Pizza , Asian , Desserts",
+        "cost":500,
+        "dis":50,
+        "time":45,
+        "paymnt":"Accepts online payments only",
+        "rating":2.3,
+        "vote":766,
+        "review":212,
+        "payment_methods": {
+          "card": true,
+          "cash": false,
+          "upi": false
+        }
+      },
+      {
+        "id": 13,
+        "imgurl": "https://threebestrated.in/images/TheWok-Ranchi-JH-2.jpeg",
+        "restname": "Roll Destination",
+        "desc":"Continental , Pizza , Asian , Desserts",
+        "cost":200,
+        "dis":60,
+        "time":30,
+        "paymnt":"Accepts cash payments only",
+        "rating":4.3,
+        "vote":766,
+        "review":512,
+        "payment_methods": {
+          "card": false,
+          "cash": true,
+          "upi": false
+        }
+      },
+      {
+        "id": 14,
+        "imgurl": "https://threebestrated.in/images/Foodiyapa-Ranchi-JH-2.jpeg",
+        "restname": "URU Brewpark",
+        "desc":"Continental , Pizza , Asian , Desserts",
+        "cost":500,
+        "dis":50,
+        "time":30,
+        "paymnt":"Accepts card payments only",
+        "rating":4.3,
+        "vote":766,
+        "review":512,
+        "payment_methods": {
+          "card": true,
+          "cash": false,
+          "upi": false
+        }
+      },
+      {
+        "id": 15,
+        "imgurl": "https://www.crazymasalafood.com/wp-content/images/4-37.jpg",
+        "restname": "Mozila",
+        "desc":"Fruit Bear , Desserts",
+        "cost":500,
+        "dis":50,
+        "time":30,
+        "paymnt":"Accepts online payments only",
+        "rating":4.3,
+        "vote":766,
+        "review":512,
+        "payment_methods": {
+          "card": true,
+          "cash": false,
+          "upi": true
+        }
+      },
+      {
+        "id": 16,
+        "imgurl": "https://sugarspicenice.in/wp-content/uploads/2020/03/ranchi-food-1024x533.jpg",
+        "restname": "Mahi",
+        "desc":"Continental , Asian , Desserts",
+        "cost":500,
+        "dis":50,
+        "time":45,
+        "paymnt":"Accepts card payments only",
+        "rating":3.3,
+        "vote":766,
+        "review":212,
+        "payment_methods": {
+          "card": true,
+          "cash": false,
+          "upi": false
+        }
+      },
+      {
+        "id": 17,
+        "imgurl": "https://addisononamelia.com/wp-content/uploads/2020/11/Breakfast-04-Md.jpg",
+        "restname": "Amelia",
+        "desc":"Continental , Pizza , Asian , Desserts",
+        "cost":600,
+        "dis":50,
+        "time":45,
+        "paymnt":"Accepts cash payments only",
+        "rating":3.7,
+        "vote":756,
+        "review":412,
+        "payment_methods": {
+          "card": false,
+          "cash": true,
+          "upi": false
+        }
+      },
+      {
+        "id": 18,
+        "imgurl": "https://tse3.mm.bing.net/th?id=OIP.JJWHvAsIE5tS-YlFbx5CXAHaE8&pid=Api&P=0&w=236&h=157",
+        "restname": "Paradise",
+        "desc":"Continental , Pizza , Asian , Desserts",
+        "cost":500,
+        "dis":50,
+        "time":30,
+        "paymnt":"Accepts card payments only",
+        "rating":4.1,
+        "vote":766,
+        "review":412,
+        "payment_methods": {
+          "card": true,
+          "cash": false,
+          "upi": false
+        }
+      },
+      {
+        "id": 19,
+        "imgurl": "https://im.whatshot.in/img/2020/Jul/istock-618457124-cropped-1593685799.jpg",
+        "restname": "Kavs",
+        "desc":"Continental , Pizza , Asian , Desserts",
+        "cost":500,
+        "dis":50,
+        "time":30,
+        "paymnt":"Accepts online payments only",
+        "rating":3.9,
+        "vote":766,
+        "review":502,
+        "payment_methods": {
+          "card": false,
+          "cash": false,
+          "upi": true
+        }
+      },
+      {
+        "id": 20,
+        "imgurl": "https://s.inyourpocket.com/gallery/reykjavik/2020/02/270787.jpg",
+        "restname": "IceLanding Couise",
+        "desc":"Continental , Pizza , Asian , Desserts",
+        "cost":500,
+        "dis":50,
+        "time":45,
+        "paymnt":"Accepts cash payments only",
+        "rating":3.2,
+        "vote":702,
+        "review":412,
+        "payment_methods": {
+          "card": false,
+          "cash": true,
+          "upi": false
+        }
+      },
+      {
+        "id": 21,
+        "imgurl": "https://tse1.mm.bing.net/th?id=OIP.OUpBRsmXQnX_KGvkH7__iAHaFQ&pid=Api&P=0&w=216&h=154",
+        "restname": "Chinese Dhaba",
+        "desc":"Continental , Pizza , Asian , Desserts",
+        "cost":500,
+        "dis":50,
+        "time":30,
+        "paymnt":"Accepts card payments only",
+        "rating":4.0,
+        "vote":760,
+        "review":500,
+        "payment_methods": {
+          "card": true,
+          "cash": false,
+          "upi": false
+        }
+      }
+    ]
+    
+  }
