@@ -7,6 +7,7 @@ import { Todo } from "./components/Todo/Todo";
 import { Paymentcard } from "./components/PaymentCard/Paymentcard";
 import payment from "./data/payment.json"
 import { Form } from "./components/Forms/Form";
+import Game from "./components/Tictak/Game"
 function App() {
 
   return (
@@ -15,8 +16,9 @@ function App() {
         <Counter/>
         <Menu /> */}
       {/* <Todo /> */}
-      <Paymentcard payments={payment} />
+      {/* <Paymentcard payments={payment} /> */}
       {/* <Form/> */}
+      <Game/>
     </>
   );
 }
