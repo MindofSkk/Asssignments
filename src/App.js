@@ -8,6 +8,7 @@ import { Paymentcard } from "./components/PaymentCard/Paymentcard";
 import payment from "./data/payment.json"
 import { Form } from "./components/Forms/Form";
 import Game from "./components/Tictak/Game"
+import Stopwatch from "./components/increment-timer/Stopwatch";
 function App() {
 
   return (
@@ -18,7 +19,8 @@ function App() {
       {/* <Todo /> */}
       {/* <Paymentcard payments={payment} /> */}
       {/* <Form/> */}
-      <Game/>
+      {/* <Game/> */}
+      <Stopwatch/>
     </>
   );
 }

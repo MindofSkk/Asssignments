@@ -1,0 +1,18 @@
+.abc{
+    background-color: #2a2b2b;
+    color: White;
+    height: 150px;
+}
+.bca{
+    /* margin:"auto"; */
+    /* padding: auto; */
+    text-align: center;
+}
+button{
+    background-color: #495050;
+    border: 1px solid grey;
+    color: rgb(45, 156, 156);
+    margin-left: 5px;
+    width: 80px;
+    height: 35px;
+}
