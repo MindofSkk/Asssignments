@@ -42,17 +42,22 @@ const Stopwatch = () => {
 
   return (
     <div className="">
-    <div className={styles.abc} >
-      <h2 style={{textAlign:"center"}}>TIMER</h2>
-     
-      <div className={styles.bca}>
-      <h3>{msToTime(watch)}</h3>
-      <button onClick={start}>Start</button>
-      <button onClick={pause}>Pause</button>
-      <button onClick={reset}>Reset</button>
+      <div className={styles.abc}>
+        <h2 style={{ textAlign: "center" }}>TIMER</h2>
+
+        <div className={styles.bca}>
+          <h3>{msToTime(watch)}</h3>
+          <button className="recx" onClick={start}>
+            Start
+          </button>
+          <button className="recx" onClick={pause}>
+            Pause
+          </button>
+          <button className="recx" onClick={reset}>
+            Reset
+          </button>
+        </div>
       </div>
-    </div>
-      
     </div>
   );
 };
