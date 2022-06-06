@@ -13,6 +13,7 @@ import Stopwatch from "./components/increment-timer/Stopwatch";
 import { Reducercounter } from "./components/useReducer/Reducercounter";
 import { Home } from "./components/Routing-lec/Home";
 import TodoList from "./components/useEffect/TodoList";
+import Header from "./components/contextapi/Header";
 function App() {
 
   return (
@@ -31,7 +32,7 @@ function App() {
       {/* <SimpleSidebar/> */}
       {/* <Home/> */}
       {/* first start the json server & then use(useReducer)then use todo */}
-      <TodoList/> 
+      {/* <TodoList/>  */}
     </>
   );
 }
