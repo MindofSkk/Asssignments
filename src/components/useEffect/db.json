@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "task": "first task",
+      "isComplated": true
+    },
+    {
+      "task": "hi",
+      "isComplated": false,
+      "id": 2
+    },
+    {
+      "task": "hiff",
+      "isComplated": false,
+      "id": 3
+    }
+  ]
+}

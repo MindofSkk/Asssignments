@@ -9,8 +9,10 @@ import payment from "./data/payment.json"
 import { Form } from "./components/Forms/Form";
 import Game from "./components/Tictak/Game"
 import Stopwatch from "./components/increment-timer/Stopwatch";
-import { Sidebar } from "./components/Chakra-sidebar/Sidebar";
+// import SimpleSidebar, { Sidebar } from "./components/Chakra-sidebar/Sidebar";
 import { Reducercounter } from "./components/useReducer/Reducercounter";
+import { Home } from "./components/Routing-lec/Home";
+import TodoList from "./components/useEffect/TodoList";
 function App() {
 
   return (
@@ -25,7 +27,11 @@ function App() {
       {/* <Stopwatch/> */}
       {/* <Sidebar/> */}
       
-      <Reducercounter/>
+      {/* <Reducercounter/> */}
+      {/* <SimpleSidebar/> */}
+      {/* <Home/> */}
+      {/* first start the json server & then use(useReducer)then use todo */}
+      <TodoList/> 
     </>
   );
 }
