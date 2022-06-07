@@ -1,6 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
 import SimpleSidebar from "./components/Chakra-sidebar/Sidebar";
+import WithSubnavigation from "./components/CHAKRA-UI-NAVBAR/ChakraNavbar";
 // import { Navbar } from "./components/Navbar/Navbar";
 // import { Counter } from "./components/Counter/Counter";
 // import { Menu } from "./components/Menu/Menu";
@@ -32,11 +33,12 @@ function App() {
       
       {/* <Reducercounter/> */}
       {/* <SimpleSidebar/> */}
-      <SimpleSidebar/>
+      {/* <SimpleSidebar/> */}
       {/* <Home/> */}
       {/* first start the json server & then use(useReducer)then use todo */}
       {/* <TodoList/>  */}
       {/* <TodoApp/> */}
+     <WithSubnavigation/>
      
     </>
   );
